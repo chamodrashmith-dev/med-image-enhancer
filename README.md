@@ -18,7 +18,7 @@ This project is especially suitable for:
 
 ---
 
-## ✨ Features  
+## ✨ Features(Basic)  
 
 ✅ Upload medical images (PNG, JPG, JPEG)  
 ✅ Noise Removal (Gaussian Blur)  
