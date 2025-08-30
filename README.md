@@ -43,5 +43,5 @@ This project is especially suitable for:
 
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/medimage-enhancer.git
+git clone https://github.com/chamodrashmith-dev/med-image-enhancer.git
 cd medimage-enhancer
